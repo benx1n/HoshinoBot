@@ -1,4 +1,4 @@
-# Config Files
+﻿# Config Files
 config.py
 config.json
 hoshino/config/
@@ -19,6 +19,8 @@ images/
 hoshino/modules/pcrclanbattle/clanbattlev3
 hoshino/modules/pcrclanbattle/clanbattlev4
 hoshino/modules/umamusume
+hoshino/modules/LocalSetu
+hoshino/modules/when2holiday
 
 # 暂时删除的代码
 TRASH/
